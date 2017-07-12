@@ -1,0 +1,1 @@
+* * * * * ubuntu /bin/bash /home/ubuntu/apps/new_proj_fun/repository/run_on_server.sh fab $DEPLOYMENT_TARGET cron_jobs.test >/var/log/new_proj_fun/crontab.log 2>&1
